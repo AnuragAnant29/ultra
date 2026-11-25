@@ -3,7 +3,7 @@
   "id": 2,
   "title": "Visit Our YouTube Channel!",
   "message": "Visit our YouTube channel for the latest technology-related videos, helpful tutorials, and app updates.",
-  "action_text": "Watch Tutorial",
+  "action_text": "Visit Now",
   "action_url": "https://www.youtube.com/channel/UC0RIUecBT2z4d8BgOhiEOzA?sub_confirmation=1",
   "dismiss_text": "Dismiss"
 }
