@@ -1,1 +1,9 @@
-ib
+{
+  "enabled": true,
+  "id": 1,
+  "title": "New Tutorial Available!",
+  "message": "Watch our new video tutorial to discover all new features, improved Vocalizer voices, and battery optimization settings.",
+  "action_text": "Watch Tutorial",
+  "action_url": "https://www.youtube.com/channel/UC0RIUecBT2z4d8BgOhiEOzA?sub_confirmation=1",
+  "dismiss_text": "Dismiss"
+}
